@@ -26,13 +26,13 @@ class MainActivity : ComponentActivity() {
 fun Main(){
     Column {
         Column {
-            Text("Chamada 3-DS:")
+            Text("Lista de Compras:")
         }
-        Text( "Gabriel Andrade")
-        Text( "Grazielly Varanda")
-        Text( "Gustavo Mendonça")
-        Text( "Rafael Raposo")
-        Text( "Sarah Nicacio")
+        Text( "Arroz")
+        Text( "Feijão")
+        Text( "Café")
+        Text( "Manteiga")
+        Text( "Ovos")
     }
 }
 
